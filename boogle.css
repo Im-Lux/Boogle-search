@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: ;
+}
+.boogle-logo {
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.trazi {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 480px;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 15px;
+    
+}
+
+.gumb {
+    display: inline-block;
+    width: 150px;
+    height: 27px;
+    margin-top: 15px;
+    margin-left: 515px;
+    margin-right: -480px;
+    background-color: antiquewhite; 
+    border: none;
+    border-radius: 3px;
+    font-family: inherit;
+    font-size: 15px;
+}
+
+.gumb:hover {
+    border: 1px solid lightgray;
+    background-color: cornsilk;
+    border-radius: 3px;
+    border-color: lightgray;
+}
